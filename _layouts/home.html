@@ -15,6 +15,8 @@ layout: default
   {%- if posts.size > 0 -%}
     <ul class="post-list">
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+      <!-- Show post through iterating -->
+      <!-- TODO: Pin my profile at the top-->
       {%- for post in posts -%}
       <li>
         <h2>
