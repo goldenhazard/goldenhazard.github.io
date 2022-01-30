@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+Wonsuhk Jung.
+
+For detailed information, please visit <notion link>

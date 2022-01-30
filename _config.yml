@@ -1,16 +1,19 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+title: Wonsuhk Jung's Study Archive
+description: Archiving and distributing the knowledges that I acquired to the public.
+author: Wonsuhk Jung
+avatar: /profile_logo.png
+email: smw04015@snu.ac.kr
 
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
 
 paginate: 10
+
+remote_theme: ngzhio/jekyll-theme-hamilton
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
