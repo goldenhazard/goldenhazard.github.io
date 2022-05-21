@@ -7,7 +7,7 @@ permalink: /about/
 
 ***
 <br>
-Wonsuhk Jung. <br>
+This is Wonsuhk Jung <br>
 Seoul National University. <br>
 Double Major in Mechanics & Artificial Intelligence.
 
